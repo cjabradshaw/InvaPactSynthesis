@@ -3,7 +3,7 @@
 
 This is the synthesis page for InvaPact code and data, formalised at <a href="https://www.biodiversitydynamics.fr/invapact3links/">InvaPact III</a> (Le Mas Sant Joan, Spain) from 1-7 November 2025). The organisation page consolidates synthesis code and data repositories for analysing the <em>InvaPact</em> database. 
 
-InvaPact aims to standardise all ecological impacts of biological invasions into a single, simple metric, so that they can be compiled accros invasive species, invaded regions, ecosystems and habitats, to allow quantification, compilation, comparison, and analyses of trends and correlates to various drivers.
+InvaPact aims to standardise all ecological impacts of biological invasions into a single, simple metric, so that they can be compiled across invasive species, invaded regions, ecosystems and habitats, to allow quantification, compilation, comparison, and analyses of trends and correlates to various drivers.
 
 InvaPact is a sister endeavour of <a href="https://github.com/InvaCost">InvaCost</a> and <a href="https://github.com/InvaHealth">InvaHealth</a>.
 

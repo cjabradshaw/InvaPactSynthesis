@@ -5,6 +5,8 @@ This is the synthesis page for InvaPact code and data, formalised at <a href="ht
 
 InvaPact aims to standardise all ecological impacts of biological invasions into a single, simple metric, so that they can be compiled accros invasive species, invaded regions, ecosystems and habitats, to allow quantification, compilation, comparison, and analyses of trends and correlates to various drivers.
 
+InvaPact is a sister endeavour of <a href="https://github.com/InvaCost">InvaCost</a> and <a href="https://github.com/InvaHealth"InvaHealth</a>.
+
 This sub-section of the InvaPact organisation page is maintained by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>, but anyone associated with InvaPact who has a Github account can contribute.
 
 - Because this is a repository within the greater InvaPact organisation page on Github, the standard collection of repositories must be handled a little differently. Each new project will occupy a subfolder within the '[sections](https://github.com/InvaPact/InvaPactSynthesis/tree/main/sections)' folder of this repository. Subsequent sub-folder structure (e.g., data, scripts, etc.) can be created for under each project name.

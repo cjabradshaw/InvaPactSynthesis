@@ -1,5 +1,5 @@
 # InvaPact Synthesis Code & Data Page
-<img align="right" src="www/InvaPactlogo.jpg" alt="InvaPact logo" width="250" style="margin-top: 20px">
+<img align="right" src="www/InvaPact logo.jpg" alt="InvaPact logo" width="250" style="margin-top: 20px">
 
 This is the project page for InvaPact synthesis code and data, formalised at <a href="https://www.biodiversitydynamics.fr/invapact3links/">InvaPact III</a> (Le Mas Sant Joan, Spain) from 1-7 November 2025). The organisation page consolidates synthesis code and data repositories for analysing the <em>InvaPact</em> database. 
 

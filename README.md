@@ -1,4 +1,4 @@
-# InvaPactWorkshop
+# InvaPact Workshop Code & Data Organisation Page
 
 This is the organisation page for InvaPact synthesis code and data, formalised at <a href="https://www.biodiversitydynamics.fr/invapact3links/">InvaPact III</a> (Le Mas Sant Joan, Spain) from 1-7 November 2025). The organisation page consolidates synthesis code and data repositories for analysing the <em>InvaPact</em> database. 
   
